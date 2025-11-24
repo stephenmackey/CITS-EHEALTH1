@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="DILCISVocabularies.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<Vocabularies xmlns="https://DILCIS.eu/XML/Vocabularies/IP">
+  <Vocabulary Name="VocabularyEHealth1">
+    <OTHERTYPE Name="VocabularycontentcategoryOTHERTYPE" xmlns="">
+      <Information xmlns="https://DILCIS.eu/XML/Vocabularies/IP">
+        <p>Vocabulary derived from E-ARK-CSIP</p>
+      </Information>
+      <Entry xmlns="https://DILCIS.eu/XML/Vocabularies/IP">
+        <Term lang="en">Patient Medical Records</Term>
+        <Definition>A collection or compilation of recorded information about patients in connection with healthcare, the Patient Record is the principal repository for information concerning a patient’s health care.</Definition>
+      </Entry>
+    </OTHERTYPE>
+  </Vocabulary>
+</Vocabularies>
